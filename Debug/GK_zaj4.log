@@ -1,0 +1,23 @@
+﻿  Źródło.cpp
+C:\Users\user\source\repos\GK_zaj4\GK_zaj4\Źródło.cpp(77,11): warning C4804: ">": niebezpieczne użycie typu "bool" w operacji
+C:\Users\user\source\repos\GK_zaj4\GK_zaj4\Źródło.cpp(124,12): warning C4244: "argument": konwersja z "time_t" do "unsigned int", możliwa utrata danych
+C:\Users\user\source\repos\GK_zaj4\GK_zaj4\Źródło.cpp(329,20): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\user\source\repos\GK_zaj4\GK_zaj4\Źródło.cpp(363,26): warning C4305: "inicjowanie": obcięcie z "double" do "float"
+C:\Users\user\source\repos\GK_zaj4\GK_zaj4\Źródło.cpp(365,16): warning C4305: "inicjowanie": obcięcie z "double" do "float"
+C:\Users\user\source\repos\GK_zaj4\GK_zaj4\Źródło.cpp(434,38): warning C4244: "=": konwersja z "double" do "T", możliwa utrata danych
+C:\Users\user\source\repos\GK_zaj4\GK_zaj4\Źródło.cpp(434,38): warning C4244:         with
+C:\Users\user\source\repos\GK_zaj4\GK_zaj4\Źródło.cpp(434,38): warning C4244:         [
+C:\Users\user\source\repos\GK_zaj4\GK_zaj4\Źródło.cpp(434,38): warning C4244:             T=float
+C:\Users\user\source\repos\GK_zaj4\GK_zaj4\Źródło.cpp(434,38): warning C4244:         ]
+C:\Users\user\source\repos\GK_zaj4\GK_zaj4\Źródło.cpp(435,18): warning C4244: "=": konwersja z "double" do "T", możliwa utrata danych
+C:\Users\user\source\repos\GK_zaj4\GK_zaj4\Źródło.cpp(435,18): warning C4244:         with
+C:\Users\user\source\repos\GK_zaj4\GK_zaj4\Źródło.cpp(435,18): warning C4244:         [
+C:\Users\user\source\repos\GK_zaj4\GK_zaj4\Źródło.cpp(435,18): warning C4244:             T=float
+C:\Users\user\source\repos\GK_zaj4\GK_zaj4\Źródło.cpp(435,18): warning C4244:         ]
+C:\Users\user\source\repos\GK_zaj4\GK_zaj4\Źródło.cpp(436,38): warning C4244: "=": konwersja z "double" do "T", możliwa utrata danych
+C:\Users\user\source\repos\GK_zaj4\GK_zaj4\Źródło.cpp(436,38): warning C4244:         with
+C:\Users\user\source\repos\GK_zaj4\GK_zaj4\Źródło.cpp(436,38): warning C4244:         [
+C:\Users\user\source\repos\GK_zaj4\GK_zaj4\Źródło.cpp(436,38): warning C4244:             T=float
+C:\Users\user\source\repos\GK_zaj4\GK_zaj4\Źródło.cpp(436,38): warning C4244:         ]
+C:\Users\user\source\repos\GK_zaj4\GK_zaj4\Źródło.cpp(537,14): warning C4305: "+=": obcięcie z "double" do "float"
+  GK_zaj4.vcxproj -> C:\Users\user\source\repos\GK_zaj4\Debug\GK_zaj4.exe
